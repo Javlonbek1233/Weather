@@ -1,0 +1,13 @@
+{
+  "name": "WeatherX",
+  "description": "A cinematic futuristic weather platform with immersive animations, real-time climate tracking, and AI-powered environmental insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time weather tracking",
+    "7-day futuristic forecast",
+    "AI environmental assistant",
+    "Dynamic weather effects"
+  ]
+}
